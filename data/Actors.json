@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"bunny_actor","classId":1,"equips":[1,1,2,3,0],"faceIndex":4,"faceName":"1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Bunny","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"bunny_actor","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Subacito","nickname":"Subacito","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"bunny_actor","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lmao","nickname":"Lmao","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
